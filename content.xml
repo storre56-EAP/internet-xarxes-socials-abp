@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.3</value>
+    <value>4.0.5</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -44,11 +44,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.3</value>
+    <value>v4.0.5</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1789321226663</value>
+    <value>1789900809932</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -85,48 +85,10 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>55b61b3a-681b-4387-8bd2-46ae7b3a8420</odePageId>
-  <odeParentPageId></odeParentPageId>
-  <pageName>Nova pàgina</pageName>
-  <odeNavStructureOrder>0</odeNavStructureOrder>
-  <odeNavStructureProperties>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Nova pàgina</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>visibility</key>
-      <value>true</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>highlight</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>hidePageTitle</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>editableInPage</key>
-      <value>false</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titlePage</key>
-      <value>Nova pàgina</value>
-    </odeNavStructureProperty>
-    <odeNavStructureProperty>
-      <key>titleNode</key>
-      <value></value>
-    </odeNavStructureProperty>
-  </odeNavStructureProperties>
-  <odePagStructures>
-  </odePagStructures>
-</odeNavStructure>
-<odeNavStructure>
   <odePageId>page-mtivu44q-6z8ogluby</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Internet i xarxes socials: convivint en el món digital</pageName>
-  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -542,12 +504,33 @@
                     </div>
                 </div>
             
+                <div class="CSP-ActivityDiv CSP-ActivityDivBlack">
+                    <div class="CSP-Activity mb-3">
+                        <p><strong>Cas 2. Vídeo viral sense permís</strong></p>
+<p>Durant l’hora del pati, la Júlia cau de manera aparatosa. Un company grava el moment amb el mòbil i, sense que ella ho sàpiga, comparteix el vídeo amb altres persones. En poc temps, el vídeo comença a circular entre l’alumnat de l’institut.</p>
+<p>La Júlia se sent molt avergonyida per la situació i ja no vol sortir al pati ni parlar amb ningú.</p>
+<p><br /><strong>Analitzem el cas</strong></p>
+<p>En petit grup, analitzeu la situació i responeu:</p>
+<ul>
+<li>Es tracta simplement d’una broma? Per què?<br /></li>
+<li>Quines conseqüències pot tenir per a la Júlia que el vídeo continuï circulant?<br /></li>
+<li>Qui té responsabilitat en aquesta situació: només qui grava i difon el vídeo o també les persones que el comparteixen?</li>
+<li>Què podríeu fer si rebéssiu aquest vídeo?<br /></li>
+<li>Com es podria actuar per ajudar la Júlia i evitar que el vídeo continuï circulant?</li>
+</ul>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
             </div>
         </div>
     
 </div>
 ]]></htmlView>
-          <jsonProperties><![CDATA[{"id":"idevice-1788291716023-xk7l6bayx","typeGame":"Case study","history":"<p><strong>Cas 1. Un missatge massa cruel?</strong></p>\n<p>La Carla ha publicat una foto amb el seu nou pentinat a Instagram. Uns quants companys de classe han deixat comentaris burlescos sobre el seu aspecte.</p>\n<p>Al principi, la Carla intenta ignorar-los, però cada vegada apareixen més comentaris i algunes persones fan captures de pantalla de la fotografia i les comparteixen en altres grups per continuar fent bromes sobre ella.</p>\n<p>La situació comença a afectar-la: evita mirar el mòbil i no vol anar a l'institut.</p>\n<p><br /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","activities":[{"activity":"<p><strong>Analitzem el cas</strong></p>\n<p>En petit grup, llegiu la situació de la Carla, individualment o mitjançant una lectura compartida, i responeu les preguntes següents:</p>\n<ul>\n<li>Creieu que es tracta d’un conflicte puntual o d’una situació de ciberassetjament? Justifiqueu la resposta.</li>\n<li>Quines conseqüències pot tenir aquesta situació per a la Carla?<br /></li>\n<li>Quin paper tenen les persones que comparteixen les captures o continuen les bromes, encara que no hagin escrit els comentaris inicials?<br /></li>\n<li>Si fóssiu amics o amigues de la Carla, què podríeu fer per ajudar-la?<br /></li>\n<li>Què haurien de fer les persones que han publicat o compartit els comentaris?<br /></li>\n</ul>\n<p><strong><em>Què necessitem saber?</em></strong><br />Abans de decidir com actuar, penseu en grup quina informació us falta per poder donar una resposta adequada a aquesta situació.</p>\n<p>Per exemple: com podem saber si es tracta de ciberassetjament? Quines actuacions poden ajudar la Carla? A qui es pot demanar ajuda?</p>\n<p><em><strong>Important</strong>:</em> no cal trobar encara una resposta correcta. L’objectiu és analitzar el problema, identificar què necessiteu saber per poder actuar i argumentar les primeres decisions del grup.</p>","feedback":"<p><strong>Per reflexionar</strong></p>\n<p>Aquesta situació presenta diversos indicadors de ciberassetjament: els comentaris ofensius no són un fet puntual, es repeteixen, es difonen a altres espais digitals i estan provocant conseqüències en el benestar de la Carla.</p>\n<p>És important recordar que la responsabilitat no recau únicament en les persones que inicien les burles. Compartir, reenviar o donar difusió a continguts ofensius també contribueix a mantenir i ampliar el dany.</p>\n<p>Davant d'una situació com aquesta podem:</p>\n<ul>\n<li>donar suport a la persona afectada i evitar que se senti sola;<br /></li>\n<li>no compartir ni reenviar els continguts ofensius;<br /></li>\n<li>guardar evidències de la situació si és necessari;<br /></li>\n<li>bloquejar o denunciar els continguts i els perfils implicats;<br /></li>\n<li>demanar ajuda a una persona adulta de confiança o comunicar-ho al centre educatiu.</li>\n</ul>\n<p><strong>No participar i demanar ajuda també és una manera d'actuar.</strong></p>","buttonCaption":"Mostra la retroacció"}]}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"id":"idevice-1788291716023-xk7l6bayx","typeGame":"Case study","history":"<p><strong>Cas 1. Un missatge massa cruel?</strong></p>\n<p>La Carla ha publicat una foto amb el seu nou pentinat a Instagram. Uns quants companys de classe han deixat comentaris burlescos sobre el seu aspecte.</p>\n<p>Al principi, la Carla intenta ignorar-los, però cada vegada apareixen més comentaris i algunes persones fan captures de pantalla de la fotografia i les comparteixen en altres grups per continuar fent bromes sobre ella.</p>\n<p>La situació comença a afectar-la: evita mirar el mòbil i no vol anar a l'institut.</p>\n<p><br /></p>","textInfoDurationInput":"","textInfoDurationTextInput":"Durada","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupació","activities":[{"activity":"<p><strong>Analitzem el cas</strong></p>\n<p>En petit grup, llegiu la situació de la Carla, individualment o mitjançant una lectura compartida, i responeu les preguntes següents:</p>\n<ul>\n<li>Creieu que es tracta d’un conflicte puntual o d’una situació de ciberassetjament? Justifiqueu la resposta.</li>\n<li>Quines conseqüències pot tenir aquesta situació per a la Carla?<br /></li>\n<li>Quin paper tenen les persones que comparteixen les captures o continuen les bromes, encara que no hagin escrit els comentaris inicials?<br /></li>\n<li>Si fóssiu amics o amigues de la Carla, què podríeu fer per ajudar-la?<br /></li>\n<li>Què haurien de fer les persones que han publicat o compartit els comentaris?<br /></li>\n</ul>\n<p><strong><em>Què necessitem saber?</em></strong><br />Abans de decidir com actuar, penseu en grup quina informació us falta per poder donar una resposta adequada a aquesta situació.</p>\n<p>Per exemple: com podem saber si es tracta de ciberassetjament? Quines actuacions poden ajudar la Carla? A qui es pot demanar ajuda?</p>\n<p><em><strong>Important</strong>:</em> no cal trobar encara una resposta correcta. L’objectiu és analitzar el problema, identificar què necessiteu saber per poder actuar i argumentar les primeres decisions del grup.</p>","feedback":"<p><strong>Per reflexionar</strong></p>\n<p>Aquesta situació presenta diversos indicadors de ciberassetjament: els comentaris ofensius no són un fet puntual, es repeteixen, es difonen a altres espais digitals i estan provocant conseqüències en el benestar de la Carla.</p>\n<p>És important recordar que la responsabilitat no recau únicament en les persones que inicien les burles. Compartir, reenviar o donar difusió a continguts ofensius també contribueix a mantenir i ampliar el dany.</p>\n<p>Davant d'una situació com aquesta podem:</p>\n<ul>\n<li>donar suport a la persona afectada i evitar que se senti sola;<br /></li>\n<li>no compartir ni reenviar els continguts ofensius;<br /></li>\n<li>guardar evidències de la situació si és necessari;<br /></li>\n<li>bloquejar o denunciar els continguts i els perfils implicats;<br /></li>\n<li>demanar ajuda a una persona adulta de confiança o comunicar-ho al centre educatiu.</li>\n</ul>\n<p><strong>No participar i demanar ajuda també és una manera d'actuar.</strong></p>","buttonCaption":"Mostra la retroacció"},{"activity":"<p><strong>Cas 2. Vídeo viral sense permís</strong></p>\n<p>Durant l’hora del pati, la Júlia cau de manera aparatosa. Un company grava el moment amb el mòbil i, sense que ella ho sàpiga, comparteix el vídeo amb altres persones. En poc temps, el vídeo comença a circular entre l’alumnat de l’institut.</p>\n<p>La Júlia se sent molt avergonyida per la situació i ja no vol sortir al pati ni parlar amb ningú.</p>\n<p><br /><strong>Analitzem el cas</strong></p>\n<p>En petit grup, analitzeu la situació i responeu:</p>\n<ul>\n<li>Es tracta simplement d’una broma? Per què?<br /></li>\n<li>Quines conseqüències pot tenir per a la Júlia que el vídeo continuï circulant?<br /></li>\n<li>Qui té responsabilitat en aquesta situació: només qui grava i difon el vídeo o també les persones que el comparteixen?</li>\n<li>Què podríeu fer si rebéssiu aquest vídeo?<br /></li>\n<li>Com es podria actuar per ajudar la Júlia i evitar que el vídeo continuï circulant?</li>\n</ul>","feedback":"","buttonCaption":"Mostra la retroacció"}]}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
